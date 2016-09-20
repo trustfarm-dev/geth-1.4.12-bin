@@ -18,3 +18,7 @@ http://www.equation.com/servlet/equation.cmd?fa=programminglog
 Unix utils port for windows.
 http://unxutils.sourceforge.net/
 
+All in one , MINGW
+
+http://www.mingw.org
+
