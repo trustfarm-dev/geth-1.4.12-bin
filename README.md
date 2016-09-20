@@ -14,3 +14,7 @@ GNU make utils.
 for windows developer gnu tools are located and managed well here::
 
 http://www.equation.com/servlet/equation.cmd?fa=programminglog
+
+Unix utils port for windows.
+http://unxutils.sourceforge.net/
+
